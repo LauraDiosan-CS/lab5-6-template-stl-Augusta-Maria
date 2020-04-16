@@ -1,0 +1,3 @@
+Titlu: x  Autor: x  An: 2000  Diponibila: 0
+Titlu: Ingeri  Autor: Weatherly  An: 2010  Diponibila: -1
+Titlu: Shadowhunters  Autor: Cassandra  An: 2013  Diponibila: -1

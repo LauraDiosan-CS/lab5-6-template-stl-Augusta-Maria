@@ -1,0 +1,2 @@
+Titlu: 1  Autor: 1  An: 1  Diponibila: 0
+Titlu: 2  Autor: 2  An: 2  Diponibila: -1
